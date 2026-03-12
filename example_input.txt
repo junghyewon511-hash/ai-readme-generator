@@ -1,0 +1,19 @@
+# Example input for AI README Generator
+#
+# Run the tool with these values:
+#
+#   python main.py \
+#     --name    "Weather CLI" \
+#     --description "Fetch live weather forecasts right from your terminal." \
+#     --author  "Jane Doe" \
+#     --github  "janedoe" \
+#     --license "MIT" \
+#     --python  "3.9+" \
+#     --output  examples/example_output.md
+
+name: Weather CLI
+description: Fetch live weather forecasts right from your terminal.
+author: Jane Doe
+github: janedoe
+license: MIT
+python: "3.9+"

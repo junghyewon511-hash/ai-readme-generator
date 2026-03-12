@@ -1,0 +1,17 @@
+# AI README Generator – Python dependencies
+#
+# This project intentionally uses only the Python standard library so that
+# no installation step is required for basic usage.
+#
+# The packages below are optional quality-of-life additions used during
+# development and testing.
+
+# Testing
+pytest>=7.0
+
+# Linting / formatting (developer tools)
+ruff>=0.4.0
+
+# If you want to extend the tool with an AI backend (optional):
+# openai>=1.0.0
+# anthropic>=0.25.0
